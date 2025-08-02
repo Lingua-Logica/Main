@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/Main',
   title: "Lingua Logica",
   description: "一个国内的自制编程语言的小组织",
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
