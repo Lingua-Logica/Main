@@ -17,7 +17,7 @@ export default defineConfig({
       {
         text: '快速了解',
         items: [
-          { text: '简介', link: '/快速开始' },
+          { text: '简介', link: '/快速了解' },
         ]
       }
     ],
